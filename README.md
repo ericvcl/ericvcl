@@ -1,4 +1,4 @@
-- 👋🏽 Hey there, I’m Eric!
-- 👀 I’m interested in Software Engineering, Data Science, and Mathematics
-- 🌱 I’m currently learning mobile app development 
+- 👋🏽 Hey there, I’m Eric! I'm an Informatics and Applied Math student at the Univeristy of Washington, Seattle.
+- 👀 I’m interested in Software Engineering, Data Science, and Mathematics.
+- 🌱 I’m currently learning mobile app development .
 - 📫 You can reach me at ericvcl@uw.edu or https://www.linkedin.com/in/eric-vc-latham-ii/
